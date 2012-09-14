@@ -1,3 +1,2 @@
 This is a stupid text file
 a stupid change
-some other change
