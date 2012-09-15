@@ -8,5 +8,9 @@ I made this change in mybranch
 
 This change made after merging
 
+some other line
+
 Here's another change in the master
 Another change in the branch
+
+One more change.
