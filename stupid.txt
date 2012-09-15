@@ -4,3 +4,6 @@ a stupid change
 some other change
 
 I made this change in mybranch
+
+
+This change made after merging
