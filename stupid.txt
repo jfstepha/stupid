@@ -7,4 +7,6 @@ I made this change in mybranch
 
 
 This change made after merging
-Another line added
+
+Here's another change in the master
+Another change in the branch
